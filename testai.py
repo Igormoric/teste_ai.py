@@ -71,7 +71,7 @@ class simu:
 		
 	def copybest(self,y):
 		
-		#for i in range(maispassos):	#almenta a distancia q um ponto pode chegar
+		#for i in range(maispassos):	#aumenta a distancia q um ponto pode chegar
 			#y.caminho.append(random.randint(1,9))
 		x=y.caminho	#copia o caminho passado
 		self.populacao=[]	#zera a populacao
